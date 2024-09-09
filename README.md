@@ -19,3 +19,5 @@ Create a Python program that acts as a basic calculator. It should prompt the us
 enter two numbers and choose an operation (addition, subtraction, multiplication,
 division). Then, it should perform the selected operation and display the result to the
 user.
+![Screenshot 2024-09-09 171503](https://github.com/user-attachments/assets/938f4424-b43c-48bb-b8c6-09e3f064cdf8)
+
